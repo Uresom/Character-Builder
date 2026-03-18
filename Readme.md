@@ -6,3 +6,14 @@ Goal:
     Abspeicherbar
     Ladbar
 
+
+Stats:
+    Name
+    Age
+    Class
+    Race
+    Lvl
+    Atribute Stats
+    Ac
+    Prof bonus
+    
