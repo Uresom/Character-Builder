@@ -2,11 +2,11 @@
 
 
 
-name = input("Name: ")
-race = input("Race: ")
+# name = input("Name: ")
+# race = input("Race: ")
+f = open(r"C:\Users\ureso\src\Character-Builder\src\test.txt")
 
-
-
+print(f.read())
 
 
 
